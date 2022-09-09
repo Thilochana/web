@@ -1,0 +1,9 @@
+.container {
+  background-color: #676767;
+}
+.container .row {
+  background-color: 0;
+}
+.container .row .col-md-3 {
+  font-size: 13px;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,11 @@
+$mycolr: #676767;
+.container {
+    background-color: $mycolr;
+
+    .row {
+        background-color: blue($color: #000000);
+        .col-md-3 {
+            font-size: 13px;
+        }
+    }
+}
